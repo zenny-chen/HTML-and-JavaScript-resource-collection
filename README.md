@@ -6,6 +6,7 @@
 1. [JavaScript ES6新特性概览](http://www.cnblogs.com/Wayou/p/es6_new_features.html)
 1. [30分钟掌握ES6/ES2015核心内容](https://www.toutiao.com/a6707856897069810184)
 1. [详解 ES 2018 新特性](https://www.toutiao.com/i6720746123973100040)
+1. [前端开发必备 - ECMAScript2018 新特性汇总，你还不会ES9吗？](https://www.toutiao.com/a6733186476349063684/)
 1. [JavaScript: What’s new in ES 2019](https://blog.tildeloop.com/posts/javascript-what’s-new-in-es2019)
 1. [JavaScript Use Strict](https://www.w3school.com.cn/js/js_strict.asp)
 1. [es6中class类静态方法，静态属性理解，实例属性，实例方法理解](https://blog.csdn.net/qdmoment/article/details/82496685)
