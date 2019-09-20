@@ -1,6 +1,7 @@
-# HTML-and-JavaScript-resource-collection
+# HTML and JavaScript resource collection
 我的HTTP、HTML5与JavaScript技术资料的收藏
 
+<br />
 
 1. [React Native 学习整理（包含ES6语法介绍）](https://www.kancloud.cn/guif_zhang/rn/451962)
 1. [JavaScript ES6新特性概览](http://www.cnblogs.com/Wayou/p/es6_new_features.html)
@@ -104,3 +105,4 @@ function doLambda() {
 ```
 
 通过以上代码，我们基本对Lambda表达式有了比较清楚的认识。
+
