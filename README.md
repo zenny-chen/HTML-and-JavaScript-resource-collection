@@ -9,6 +9,7 @@
 1. [详解 ES 2018 新特性](https://www.toutiao.com/i6720746123973100040)
 1. [前端开发必备 - ECMAScript2018 新特性汇总，你还不会ES9吗？](https://www.toutiao.com/a6733186476349063684/)
 1. [JavaScript: What’s new in ES 2019](https://blog.tildeloop.com/posts/javascript-what’s-new-in-es2019)
+1. [JavaScript ES10的13个新特性示例](https://www.toutiao.com/a6739397212779840004)
 1. [JavaScript Use Strict](https://www.w3school.com.cn/js/js_strict.asp)
 1. [es6中class类静态方法，静态属性理解，实例属性，实例方法理解](https://blog.csdn.net/qdmoment/article/details/82496685)
 1. [js 判断变量类型（完整版），包括ES6 新类型Symbol](https://blog.csdn.net/Altaba/article/details/80405944)
