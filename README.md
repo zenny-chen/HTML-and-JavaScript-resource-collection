@@ -66,7 +66,7 @@
 
 <br />
 
-#### JavaScript ES6 中新增的Lambda表达式
+## JavaScript ES6 中新增的Lambda表达式
 
 JavaScript中的Lambda表达式的表达方式既简洁又灵活。其完整的表达语法为：
 ```javascript
@@ -106,4 +106,44 @@ function doLambda() {
 ```
 
 通过以上代码，我们基本对Lambda表达式有了比较清楚的认识。
+
+<br />
+
+## JavaScript中的void操作符
+
+JavaScript同C、Java一样，引入了 **`void`** 关键字。不过与C和Java不同的是，在JavaScript标准中没有所谓的void类型，只有 **Undefined** 类型。当然，如果我们将未定义的变量或是没有初始化的变量看作为void类型其实也没毛病，这样的话，void类型的唯一值就是 **`undefined`** 了。
+不过在JavaScript中，void主要还是以**操作符**的方式进行使用的。其主要目的是将一个表达式转换为一个返回undefined值的表达式。它有两种表达形式：
+void  < *表达式* >
+void ( < *表达式* > )
+
+当然，为了使我们的代码表达更清晰，笔者更推荐第二种带有圆括号的表达形式。
+下面我们来举一些🌰来展示void操作符的用法以及效果。
+```javascript
+let a = 100;
+
+// 这里value的值为undefined，而a++操作也被执行了
+let value = void(a++);
+
+console.log(`a = ${a}, value = ${value}`);
+
+function test(b, c) {
+    
+    // 这里void中的整个逗号表达式都执行了。
+    // 由于这里使用了void操作符，因此整个表达式返回的值为undefined，
+    // 而不是数值类型。
+    return void (a += b, a += c, a++);
+}
+
+value = test(5, 10);
+
+console.log(`a = ${a}, value = ${value}`);
+
+// 这条语句表达的是，如果此时a大于100，那么给value赋值为1；
+// 否则value的值依然为undefined。
+value = a > 100 ? 1 : void(0);
+
+console.log('value = ' + value);
+```
+
+通过上述简短的代码，我们应该对void操作符有了一个比较感性的了解了，在某些情况下，void操作符还是非常实用的。
 
