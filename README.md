@@ -12,6 +12,7 @@
 1. [JavaScript ES10的13个新特性示例](https://www.toutiao.com/a6739397212779840004)
 1. [JavaScript Use Strict](https://www.w3school.com.cn/js/js_strict.asp)
 1. [es6中class类静态方法，静态属性理解，实例属性，实例方法理解](https://blog.csdn.net/qdmoment/article/details/82496685)
+1. [js中ES6的Set的基本用法](https://www.cnblogs.com/wjcoding/p/11690886.html)
 1. [js 判断变量类型（完整版），包括ES6 新类型Symbol](https://blog.csdn.net/Altaba/article/details/80405944)
 1. [深入理解javascript之typeof和instanceof](https://blog.csdn.net/mevicky/article/details/50353881)
 1. [JavaScript 中undefined与null的区别分析](https://www.toutiao.com/a6717529568934101517)
