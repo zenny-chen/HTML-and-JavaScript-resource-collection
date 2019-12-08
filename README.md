@@ -10,6 +10,7 @@
 1. [前端开发必备 - ECMAScript2018 新特性汇总，你还不会ES9吗？](https://www.toutiao.com/a6733186476349063684/)
 1. [JavaScript: What’s new in ES 2019](https://blog.tildeloop.com/posts/javascript-what’s-new-in-es2019)
 1. [JavaScript ES10的13个新特性示例](https://www.toutiao.com/a6739397212779840004)
+1. [ES8、ES9和ES10新特征梳理](https://www.toutiao.com/i6675510537394061835/)
 1. [JavaScript Use Strict](https://www.w3school.com.cn/js/js_strict.asp)
 1. [es6中class类静态方法，静态属性理解，实例属性，实例方法理解](https://blog.csdn.net/qdmoment/article/details/82496685)
 1. [js中ES6的Set的基本用法](https://www.cnblogs.com/wjcoding/p/11690886.html)
