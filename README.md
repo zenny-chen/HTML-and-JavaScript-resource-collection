@@ -60,6 +60,7 @@
 1. [每一个Web开发者需要掌握的HTTP缓存知识](https://www.toutiao.com/a6680079212524601864/)
 1. [网站不让你复制文字？别着急，这串代码1秒解除限制](https://www.toutiao.com/a6703815823682699787)
 1. [浏览器渲染原理](https://www.toutiao.com/a6705214325000241667)
+1. [YAML入门教程](https://www.toutiao.com/i6779834342379094536/)
 
 <br />
 
