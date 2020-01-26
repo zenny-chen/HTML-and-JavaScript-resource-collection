@@ -54,6 +54,7 @@
 1. [JS十种经典排序算法，纯动画演示，学会了怼死面试官！](https://www.toutiao.com/i6631361236942455303)
 1. [前端程序员必学的CSS变量知识](https://www.toutiao.com/a6671488828957524493)
 1. [前端比较实用的 CSS3 技巧，总有一个是你需要的！](https://www.toutiao.com/a6671475180818137614)
+1. [web前端入门到实战：彻底掌握css动画「animation」](https://www.toutiao.com/a6753231741239951875/)
 1. [正则表达式真的很骚，可惜你不会写！](https://www.toutiao.com/a6678604392393867787)
 1. [正则表达式：(?=a)是什么意思？说说前端常用到的正则表达式](https://www.toutiao.com/i6696132898023539207)
 1. [你知道websocket吗?](https://www.toutiao.com/a6678838791072907789)
