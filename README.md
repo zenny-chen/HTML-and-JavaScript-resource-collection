@@ -59,6 +59,8 @@
 1. [每一个Web开发者需要掌握的HTTP缓存知识](https://www.toutiao.com/a6680079212524601864/)
 1. [网站不让你复制文字？别着急，这串代码1秒解除限制](https://www.toutiao.com/a6703815823682699787)
 1. [浏览器渲染原理](https://www.jianshu.com/p/76bb929eae01)
+1. [最全的 Vue 性能优化指南，值得收藏](https://www.toutiao.com/a6763818600655487501/)
+1. [面向数学应用程序的Web应用显示引擎——MathJax](https://www.toutiao.com/a6751722358014214660/)
 1. [YAML入门教程](https://www.toutiao.com/i6779834342379094536/)
 
 <br />
