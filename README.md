@@ -3,7 +3,9 @@
 
 <br />
 
-- [React Native 学习整理（包含ES6语法介绍）](https://www.kancloud.cn/guif_zhang/rn/451962)
+- [HTML标签](http://www.w3school.com.cn/tags/tag_html.asp)
+- [html标签的lang属性](https://blog.csdn.net/zx442008375/article/details/120037513)
+- [10个好用的 HTML5 特性](https://www.toutiao.com/i6881415639852909063/)
 - [JavaScript ES6新特性概览](http://www.cnblogs.com/Wayou/p/es6_new_features.html)
 - [30分钟掌握ES6/ES2015核心内容](https://www.toutiao.com/a6707856897069810184)
 - [详解 ES 2018 新特性](https://www.toutiao.com/i6720746123973100040)
@@ -29,8 +31,6 @@
 - [JavaScript之如何求数组的最大值和最小值](https://www.toutiao.com/a6724951771917058568)
 - [w3school JavaScript 高级教程](http://www.w3school.com.cn/js/index_pro.asp)
 - [JavaScript API](http://www.javascripture.com)
-- [HTML标签](http://www.w3school.com.cn/tags/tag_html.asp)
-- [10个好用的 HTML5 特性](https://www.toutiao.com/i6881415639852909063/)
 - [Javascript中的== 和 === 浅析](http://blog.csdn.net/csdnMrY/article/details/78342326)
 - [Javascript中的delete](https://www.cnblogs.com/tylerdonet/p/4890939.html)
 - [JavaScript函数的原型链结构分析](https://www.toutiao.com/i6554161958382207501)
@@ -73,6 +73,7 @@
 - [每一个Web开发者需要掌握的HTTP缓存知识](https://www.toutiao.com/a6680079212524601864/)
 - [网站不让你复制文字？别着急，这串代码1秒解除限制](https://www.toutiao.com/a6703815823682699787)
 - [浏览器渲染原理](https://www.jianshu.com/p/76bb929eae01)
+- [React Native 学习整理（包含ES6语法介绍）](https://www.kancloud.cn/guif_zhang/rn/451962)
 - [最全的 Vue 性能优化指南，值得收藏](https://www.toutiao.com/a6763818600655487501/)
 - [面向数学应用程序的Web应用显示引擎——MathJax](https://www.toutiao.com/a6751722358014214660/)
 - [YAML入门教程](https://www.toutiao.com/i6779834342379094536/)
