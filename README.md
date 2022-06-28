@@ -50,6 +50,7 @@
 - [利用Safari调试App的WebView界面](http://blog.csdn.net/u010046748/article/details/52981074)
 - [用canvas画太极图（一步步详解附带源代码）](https://www.toutiao.com/a6871618353572610563/)
 - [canvas中的getContext()方法 以及 webgl中的getContext()方法](https://cloud.tencent.com/developer/article/1383924)
+- [requestAnimationFrame详解](https://www.jianshu.com/p/fa5512dfb4f5)
 - [GPU FOR THE WEB COMMUNITY GROUP](https://www.w3.org/community/gpu/)
 - [JavaScript ECMA-262 specification](http://www.ecma-international.org/publications/standards/Ecma-262.htm)
 - [史上最全最常用的正则表达式-（基本够用值得收藏）](https://blog.csdn.net/prophet_007/article/details/25616385)
