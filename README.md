@@ -66,6 +66,7 @@
 - [CSS3如何实现一个 3D 效果的魔方](https://www.toutiao.com/a6868451637766128132/)
 - [css-画一个3D地球](https://www.toutiao.com/a6873389856504939015/)
 - [CSS仅需 2 行代码，即可实现一个立体正方形背景](https://www.toutiao.com/w/1731681657187343/)
+- [如果想要将网站变成黑白，只要在网站加入 5 句代码](https://www.toutiao.com/w/1751193090343940/)
 - [web前端入门到实战：彻底掌握css动画「animation」](https://www.toutiao.com/a6753231741239951875/)
 - [Web中的图像技术全面总结，长文干货！](https://www.toutiao.com/a6815574734546141700/)
 - [正则表达式真的很骚，可惜你不会写！](https://www.toutiao.com/a6678604392393867787)
