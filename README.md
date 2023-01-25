@@ -15,6 +15,7 @@
 - [ES8、ES9和ES10新特征梳理](https://www.toutiao.com/i6675510537394061835/)
 - [ECMAScript新特性@22/01/05](https://www.toutiao.com/i7049702380073697831/)
 - [了解ES6-ES12的特性](https://www.toutiao.com/article/7082897184454083072/)
+- [深入探索 ECMAScript 6-12: JavaScript 版本进化和新特性](https://www.toutiao.com/article/7192374521221874191/)
 - [那些在ES2022 (ES13)中最有趣的新特性](https://www.toutiao.com/article/7113442764116984354/)
 - [你可能错过的16个ES2022 JavaScript新特性？](https://www.toutiao.com/article/7174644158962123319/)
 - [JavaScript Use Strict](https://www.w3school.com.cn/js/js_strict.asp)
