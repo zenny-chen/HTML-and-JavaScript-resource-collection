@@ -59,7 +59,7 @@
 - [史上最全最常用的正则表达式-（基本够用值得收藏）](https://blog.csdn.net/prophet_007/article/details/25616385)
 - [node.js文档](https://nodejs.org/dist/latest-v8.x/docs/api/)
 - [node.js基于N-API调用C函数](http://cnodejs.org/topic/59f32ddd1b399c2f3ff9f613)
-- [GYP简介](http://blog.xiaogaozi.org/2011/10/29/introduction-to-gyp/)
+- [GYP简介](http://www.360doc.com/content/13/0527/10/2036337_288482205.shtml)
 - [JS十种经典排序算法，纯动画演示，学会了怼死面试官！](https://www.toutiao.com/i6631361236942455303)
 - [大神赞过的：学习 WebAssembly 汇编语言程序设计](https://www.toutiao.com/i7070045207714218537/)
 - [前端程序员必学的CSS变量知识](https://www.toutiao.com/a6671488828957524493)
