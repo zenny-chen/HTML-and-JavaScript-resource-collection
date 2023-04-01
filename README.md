@@ -83,6 +83,7 @@
 - [YAML入门教程](https://www.toutiao.com/i6779834342379094536/)
 - [带你揭开BFC神秘的面纱](https://www.toutiao.com/a6852210308405002766/)
 - [你怎么可以不了解AST呢？](https://www.toutiao.com/i6984697232280781319/)
+- [盘点 2023 年排名前20的编程语言对 WebAssembly的支持！](https://www.toutiao.com/article/7215927610491027968/)
 
 <br />
 
