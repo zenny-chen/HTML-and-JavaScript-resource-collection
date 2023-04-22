@@ -47,6 +47,7 @@
 - [ES6新特性之Reflect](https://www.toutiao.com/a6726748044210995715)
 - [彻底搞清楚javascript中的require、import和export](https://www.toutiao.com/a6687574679806280195)
 - [JavaScript基础：如何让(a == 1&&a == 2&&a == 3)的值为true?](https://www.toutiao.com/i6695747520343048712)
+- [JavaScript奇技淫巧：Hook与反Hook](https://www.toutiao.com/article/7224735616750338571/)
 - [JavaScript基础：如何衡量一个人的 JavaScript 水平？常见10种函数](https://www.toutiao.com/i6696293991266124302)
 - [var now = +new Date(); 请问这里为什么要有个加号？](https://www.toutiao.com/a6719280828267889155)
 - [DOM操作成本到底高在哪儿？](https://segmentfault.com/a/1190000014070240)
