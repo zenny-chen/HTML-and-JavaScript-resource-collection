@@ -84,6 +84,8 @@
 - [每一个Web开发者需要掌握的HTTP缓存知识](https://www.toutiao.com/a6680079212524601864/)
 - [网站不让你复制文字？别着急，这串代码1秒解除限制](https://www.toutiao.com/a6703815823682699787)
 - [浏览器渲染原理](https://www.jianshu.com/p/76bb929eae01)
+- [How to make your web content look stunning on the iPhone 4's new Retina display](https://ar.al/3331/)
+- [Creating Retina Images for Your Website](https://www.kylejlarson.com/blog/creating-retina-images-for-your-website/)
 - [React Native 学习整理（包含ES6语法介绍）](https://www.kancloud.cn/guif_zhang/rn/451962)
 - [最全的 Vue 性能优化指南，值得收藏](https://www.toutiao.com/a6763818600655487501/)
 - [面向数学应用程序的Web应用显示引擎——MathJax](https://www.toutiao.com/a6751722358014214660/)
