@@ -8,6 +8,7 @@
 - [10个好用的 HTML5 特性](https://www.toutiao.com/i6881415639852909063/)
 - [How to make your web content look stunning on the iPhone 4's new Retina display](https://ar.al/3331/)
 - [Creating Retina Images for Your Website](https://www.kylejlarson.com/blog/creating-retina-images-for-your-website/)
+- [javascript中使用void 0给变量赋值为undefined](https://blog.csdn.net/qq_17335549/article/details/128058300)
 - [JavaScript ES6新特性概览](http://www.cnblogs.com/Wayou/p/es6_new_features.html)
 - [30分钟掌握ES6/ES2015核心内容](https://www.toutiao.com/a6707856897069810184)
 - [详解 ES 2018 新特性](https://www.toutiao.com/i6720746123973100040)
