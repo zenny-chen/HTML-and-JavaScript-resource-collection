@@ -6,6 +6,7 @@
 - [HTML标签](http://www.w3school.com.cn/tags/tag_html.asp)
 - [html标签的lang属性](https://blog.csdn.net/zx442008375/article/details/120037513)
 - [10个好用的 HTML5 特性](https://www.toutiao.com/i6881415639852909063/)
+- [The right way of setting \<a href=""\> when it's a local file](https://stackoverflow.com/questions/12021781/the-right-way-of-setting-a-href-when-its-a-local-file)
 - [How to make your web content look stunning on the iPhone 4's new Retina display](https://ar.al/3331/)
 - [Creating Retina Images for Your Website](https://www.kylejlarson.com/blog/creating-retina-images-for-your-website/)
 - [javascript中使用void 0给变量赋值为undefined](https://blog.csdn.net/qq_17335549/article/details/128058300)
