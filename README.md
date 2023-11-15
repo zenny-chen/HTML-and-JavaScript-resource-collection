@@ -6,6 +6,8 @@
 - [HTML标签](http://www.w3school.com.cn/tags/tag_html.asp)
 - [html标签的lang属性](https://blog.csdn.net/zx442008375/article/details/120037513)
 - [HTML Table居中详解](https://www.python100.com/html/113071.html)
+- [html如何设置字体颜色（三种方式）](https://www.php.cn/faq/515116.html)
+- [html空格字符](https://sg-info.cn/article/show/12950)
 - [10个好用的 HTML5 特性](https://www.toutiao.com/i6881415639852909063/)
 - [The right way of setting \<a href=""\> when it's a local file](https://stackoverflow.com/questions/12021781/the-right-way-of-setting-a-href-when-its-a-local-file)
 - [How to make your web content look stunning on the iPhone 4's new Retina display](https://ar.al/3331/)
