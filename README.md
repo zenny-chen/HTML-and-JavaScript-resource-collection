@@ -69,6 +69,7 @@
 - [GPU FOR THE WEB COMMUNITY GROUP](https://www.w3.org/community/gpu/)
 - [JavaScript ECMA-262 specification](http://www.ecma-international.org/publications/standards/Ecma-262.htm)
 - [史上最全最常用的正则表达式-（基本够用值得收藏）](https://blog.csdn.net/prophet_007/article/details/25616385)
+- [看不懂正则表达式？试试可视化工具吧！](https://www.toutiao.com/article/7372450502925173284/)
 - [node.js文档](https://nodejs.org/dist/latest-v8.x/docs/api/)
 - [node.js基于N-API调用C函数](http://cnodejs.org/topic/59f32ddd1b399c2f3ff9f613)
 - [如何退出 Node.js 程序](http://dev.nodejs.cn/learn/how-to-exit-from-a-nodejs-program)
