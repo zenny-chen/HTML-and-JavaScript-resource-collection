@@ -28,6 +28,7 @@
 - [深入探索 ECMAScript 6-12: JavaScript 版本进化和新特性](https://www.toutiao.com/article/7192374521221874191/)
 - [那些在ES2022 (ES13)中最有趣的新特性](https://www.toutiao.com/article/7113442764116984354/)
 - [你可能错过的16个ES2022 JavaScript新特性？](https://www.toutiao.com/article/7174644158962123319/)
+- [ES14 中最具变革性的 5 个 JavaScript 特性](https://www.toutiao.com/article/7382117407885689407/)
 - [JavaScript Use Strict](https://www.w3school.com.cn/js/js_strict.asp)
 - [你真的懂Javascript的let/const/var吗？](https://www.toutiao.com/i6507397358723006989/)
 - [es6中class类静态方法，静态属性理解，实例属性，实例方法理解](https://blog.csdn.net/qdmoment/article/details/82496685)
